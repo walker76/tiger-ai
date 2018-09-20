@@ -1,0 +1,4 @@
+C:\Users\Andrew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Andrew\OneDrive\College\Semester 4\CSI 3344\Tiger Game"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug

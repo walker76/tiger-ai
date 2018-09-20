@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Tiger_Game"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tiger_Game">
+				<Option output="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Tiger_Game.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/."/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tiger_Game"/>
+					<CompileFile command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tiger_Game/fast">
+				<Option output="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Tiger_Game.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/."/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="e:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tiger_Game/fast"/>
+					<CompileFile command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/Group_Four_Group_Project.h">
+			<Option target="Tiger_Game"/>
+		</Unit>
+		<Unit filename="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/runner.cpp">
+			<Option target="Tiger_Game"/>
+		</Unit>
+		<Unit filename="C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

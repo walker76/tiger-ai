@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/Group_Four_Group_Project.h
+iostream
+-
+vector
+-
+algorithm
+-
+map
+-
+cmath
+-
+
+C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/runner.cpp
+iostream
+-
+vector
+-
+Group_Four_Group_Project.h
+C:/Users/Andrew/OneDrive/College/Semester 4/CSI 3344/Tiger Game/Group_Four_Group_Project.h
+
